@@ -8,7 +8,7 @@
   padding: 15px;
   justify-content: space-between;
   align-items: center;
-  background-color: #a1a0a0;
+  background-color: #3f9fbd;
 }
 .nav__menu-bar {
   display: flex;
@@ -30,10 +30,10 @@
   width: 288px;
   row-gap: 24px;
   right: -288px;
-  padding: 24px 16px;
+  padding: 20px 16px;
   transition: all 0.2s;
   min-height: calc(100vh - 60px);
-  background-color: #a1a0a0;
+  background-color: #3f9fbd;
 }
 
 .nav__menu-list div::after {
